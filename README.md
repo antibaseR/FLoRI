@@ -1,3 +1,3 @@
 # FLoRI
-Code for "Federated Learning of Robust Individualized Decision Rules with Application to Heterogeneous Multi-Hospital Sepsis Population". 
+Code for "Federated Learning of Robust Individualized Decision Rules with Application to Heterogeneous Multi-Hospital Sepsis Population". The paper has been published at Annals of Applied Statistics (https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Federated-learning-of-robust-individualized-decision-rules-with-application-to/10.1214/25-AOAS2017.full).
 The "FedAvg" function is a customized function for implementing Federated Averaging using the "ditto" package developed by Tian Li. Please refer to the ditto package (https://github.com/litian96) for implementing federated learning.
